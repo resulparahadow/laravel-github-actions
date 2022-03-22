@@ -82,8 +82,4 @@ jobs:
 
           script: |
 
-            cd /var/www/html/
-
-            git checkout -f 
-
-            git pull
+            whoami
